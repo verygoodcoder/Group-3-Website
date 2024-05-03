@@ -1,0 +1,10 @@
+body {
+  font-family:Arial, sans-serif;
+  background-color: #2d3250;
+  margin: 0;
+  padding: 0;
+  background-image: url('sendong.jpg');
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+}
